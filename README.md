@@ -2,6 +2,7 @@
 ---
 
 Bienvenido/a a este repositorio. Este espacio documenta mi viaje de aprendizaje en la programación con Python, abordando desde los momentos de mayor desafío y frustración hasta la construcción de soluciones lógicas estructuradas, limpias y aplicadas a casos reales de optimización y control de calidad.
+
 ---
 #**📌 Contexto y Origen de este Repositorio**
 
